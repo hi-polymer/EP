@@ -107,10 +107,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-    1. Brief biography. 
-
-A[...], currently pursuing a master's degree at the Bieler School of Environment and the Department of Geography at McGill University under the supervision of Dr. Raja Sengupta, is a researched in urban climatology and its intersection with human well-being. His research aims to leverage the potential of Internet of Things (IoT) technologies and Machine Learning to develop innovative methodologies for mapping and modelling urban heat distribution and urban heat islands at the neighbourhood scale. The ultimate objective of his work is to translate his quantitative work into valuable insights that can inform and guide policy decisions related to urban heat mitigation and urban development.
-As a CAnD3 fellow, A[...] is motivated to expand his understanding of population dynamics in order to further contextualize his research within the broader themes of socio-demographic inequality, population health, and well-being. This will enable him to gain a comprehensive perspective and insights on how to effectively translate his research findings into impactful public policy measures. Furthermore, A[...] looks forward to gaining meaningful experience through the program's experiential learning opportunities, where he has the chance to apply his  geospatial analysis, developer, data science skills and CAnD3 training in practical settings.
-
 
 {style="text-align: justify;"}
