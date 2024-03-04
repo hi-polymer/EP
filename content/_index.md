@@ -91,15 +91,6 @@ sections:
     design:
       columns: '2'
   
-  
-      description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
   - block: collection
     id: posts
     content:
