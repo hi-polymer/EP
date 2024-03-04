@@ -89,6 +89,19 @@ sections:
               * Assisted in instruction on research design course, provided feedback and guidance for research proposal drafts for students projects.
               * Graded assignments and exams, and answered student questions to support the course instructor.
     
+      - title: Teaching Assistant for Environmental Research Design Course
+          company: McGill University
+          company_url: ''
+          company_logo: org-x
+          location: Montreal
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: |2-
+              Responsibilities include:
+
+              * Assisted in instruction on research design course, provided feedback and guidance for research proposal drafts for students projects.
+              * Graded assignments and exams, and answered student questions to support the course instructor.
+    
     design:
       columns: '2'
   - block: accomplishments
