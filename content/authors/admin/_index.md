@@ -45,7 +45,7 @@ education:
     - course: MSc in Geography
       institution: McGill University
       year: 20XX
-    - course: BSc in Artificial Intelligence
+    - course: BSc in Environment
       institution: McGill University
       year: 20XX
 
