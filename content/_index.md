@@ -88,6 +88,7 @@ sections:
 
               * Assisted in instruction on research design course, provided feedback and guidance for research proposal drafts for students projects.
               * Graded assignments and exams, and answered student questions to support the course instructor.
+    
     - title: Teaching Assistant for Advanced Geospatial Analysis 
           company: McGill University
           company_url: ''
