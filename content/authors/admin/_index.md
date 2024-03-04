@@ -1,50 +1,50 @@
 ---
 # Display name
-title: 吳健雄
+title: A L
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: A L
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: A
+last_name: L
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌿
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Geospatial Developer and Urban Heat Island Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: McGill University 
+    url: [https://www.mcgill.ca/](https://www.mcgill.ca/)
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include spatial statistics, machine learning and its application in spatial sciences. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatial Statistics
+  - Machine Learning
+  - Software Development
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: BCompSci in Computer Science, Statistics and Mathematics
+      institution: Concordia univerisyt
+      year: 20--
+    - course: MSc in Geography
+      institution: McGill University
+      year: 20--
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: McGill University
+      year: 20--
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -58,12 +58,12 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 50
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -91,21 +91,9 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: [https://github.com/hi-polymer](https://github.com/hi-polymer)
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -119,6 +107,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+    1. Brief biography. 
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A[...], currently pursuing a master's degree at the Bieler School of Environment and the Department of Geography at McGill University under the supervision of Dr. Raja Sengupta, is a researched in urban climatology and its intersection with human well-being. His research aims to leverage the potential of Internet of Things (IoT) technologies and Machine Learning to develop innovative methodologies for mapping and modelling urban heat distribution and urban heat islands at the neighbourhood scale. The ultimate objective of his work is to translate his quantitative work into valuable insights that can inform and guide policy decisions related to urban heat mitigation and urban development.
+As a CAnD3 fellow, A[...] is motivated to expand his understanding of population dynamics in order to further contextualize his research within the broader themes of socio-demographic inequality, population health, and well-being. This will enable him to gain a comprehensive perspective and insights on how to effectively translate his research findings into impactful public policy measures. Furthermore, A[...] looks forward to gaining meaningful experience through the program's experiential learning opportunities, where he has the chance to apply his  geospatial analysis, developer, data science skills and CAnD3 training in practical settings.
+
+
 {style="text-align: justify;"}
