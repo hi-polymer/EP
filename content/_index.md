@@ -62,27 +62,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Teaching Assistant for Advanced Geospatial Analysis 
+          company: McGill University
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Montreal
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Designed and led instruction of the laboratory portion of the course
+              * Provided feedback and guidance for class research proposal drafts for students projects.
+              * Graded assignments and exams, and answered student questions to support the course instructor.
+    
+        - title: Teaching Assistant for Environmental Research Design Course
+          company: McGill University
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Montreal
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description:
+              * Assisted in instruction on research design course, provided feedback and guidance for research proposal drafts for students projects.
+              * Graded assignments and exams, and answered student questions to support the course instructor.
     design:
       columns: '2'
   - block: accomplishments
