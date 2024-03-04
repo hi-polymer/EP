@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Cand3 - Consortium on Analytics for Data-Driven Decision-Making
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
