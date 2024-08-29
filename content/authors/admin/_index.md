@@ -40,17 +40,16 @@ interests:
 education:
   courses:
     - course: BCompSci in Computer Science, Statistics and Mathematics
-      institution: Concordia univerisyt
-      year: 20XX
+      institution: Concordia univerisity
+      year: 2024
     - course: MSc in Geography
       institution: McGill University
-      year: 20XX
+      year: 2024
     - course: BSc in Environment
       institution: McGill University
-      year: 20XX
+      year: 2021
 
 # Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
@@ -97,31 +96,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/hi-polymer
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.linkedin.com/in/alexander-l-5311b6257/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-A[...], currently pursuing a master's degree at the Bieler School of Environment and the Department of Geography at McGill University under the supervision of Dr. Raja Sengupta, is a researched in urban climatology and its intersection with human well-being. His research aims to leverage the potential of Internet of Things (IoT) technologies and Machine Learning to develop innovative methodologies for mapping and modelling urban heat distribution and urban heat islands at the neighbourhood scale. The ultimate objective of his work is to translate his quantitative work into valuable insights that can inform and guide policy decisions related to urban heat mitigation and urban development. As a CAnD3 fellow, A[...] is motivated to expand his understanding of population dynamics in order to further contextualize his research within the broader themes of socio-demographic inequality, population health, and well-being. This will enable him to gain a comprehensive perspective and insights on how to effectively translate his research findings into impactful public policy measures. Furthermore, A[...] looks forward to gaining meaningful experience through the program's experiential learning opportunities, where he has the chance to apply his geospatial analysis, developer, data science skills and CAnD3 training in practical settings.
+Alexander Lam, currently pursuing a master's degree at the Bieler School of Environment and the Department of Geography at McGill University under the supervision of Dr. Raja Sengupta, is a researched in urban climatology and its intersection with human well-being. His research aims to leverage the potential of Internet of Things (IoT) technologies and Machine Learning to develop innovative methodologies for mapping and modelling urban heat distribution and urban heat islands at the neighbourhood scale. The ultimate objective of his work is to translate his quantitative work into valuable insights that can inform and guide policy decisions related to urban heat mitigation and urban development. 
+
+As a CAnD3 fellow, I am motivated to expand my understanding of population dynamics in order to further contextualize his research within the broader themes of socio-demographic inequality, population health, and well-being. This will enable me to gain a comprehensive perspective and insights on how to effectively translate his research findings into impactful public policy measures. Furthermore, I look forward to gaining meaningful experience through the program's experiential learning opportunities, where I have had the chance to apply my geospatial analysis, developer, data science skills and CAnD3 training in practical settings.
 {style="text-align: justify;"}
