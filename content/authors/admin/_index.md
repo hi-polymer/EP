@@ -1,13 +1,10 @@
 ---
 # Display name
-title: A L
-
-# Name pronunciation (optional)
-name_pronunciation: A L
+title: Alexander Lam
 
 # Full name (for SEO)
-first_name: A
-last_name: L
+first_name: Alexander
+last_name: Lam
 
 # Status emoji
 status:
