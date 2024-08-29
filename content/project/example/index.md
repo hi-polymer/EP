@@ -1,22 +1,18 @@
 ---
-title: Cand3 - Consortium on Analytics for Data-Driven Decision-Making
-summary: An example of using the in-built project page.
+title: Urban Heat Island - A microscale analysis of UHI factors 
+summary: A project performed on the downtown McGill campus to map and determine the influences of urban heat within the immediate surrounding of a location.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - UHI
+date: '2024-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Alexander Lam
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
